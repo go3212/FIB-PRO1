@@ -1,0 +1,14 @@
+#include <iostream>
+
+int main()
+{
+	int x,y;
+
+	std::cin >> x;
+	std::cin >> y;
+
+	if(abs(x) > abs(y))
+		std::cout << x << std::endl;
+	else
+		std::cout << y << std::endl;
+}
