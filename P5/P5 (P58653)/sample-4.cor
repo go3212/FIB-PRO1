@@ -1,0 +1,6 @@
+letter('a') = true
+vowel('a') = true
+consonant('a') = false
+uppercase('a') = false
+lowercase('a') = true
+digit('a') = false
